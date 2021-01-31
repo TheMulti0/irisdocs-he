@@ -1,0 +1,14 @@
+site_name: Iris
+
+theme:
+  language: he
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - search.suggest
+  plugins:
+  - search:
+      lang: he
